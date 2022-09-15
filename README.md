@@ -1,3 +1,3 @@
-# Ejercicio-JNB Helloworld
+# Ejercicio-Python
 
-Jupyter Notebook simple para practicar
+Jupyter Notebook simple para practicar Python
