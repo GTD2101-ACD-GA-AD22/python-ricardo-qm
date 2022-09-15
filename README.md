@@ -1,3 +1,3 @@
 # Ejercicio-Python
 
-Jupyter Notebook simple para practicar Python
+Jupyter Notebook simple para practicar Python - tareas intermedias
